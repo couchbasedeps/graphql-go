@@ -1,3 +1,3 @@
-module github.com/graphql-go/graphql
+module github.com/couchbasedeps/graphql-go
 
 go 1.13
